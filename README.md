@@ -9,6 +9,6 @@
                  <p>Fuck you Lynx,Roby,RedZone02</p>
                  <img src="sick boyz.jpeg" />
                  <p>Made by DragonFire98</p>
-       <body>
+       </body>
 
 </html>
